@@ -152,7 +152,7 @@ class Main extends React.Component {
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-instagram">
+              <a href="https://instagram.com/samnesiac" className="icon fa-instagram">
                 <span className="label">Instagram</span>
               </a>
             </li>
